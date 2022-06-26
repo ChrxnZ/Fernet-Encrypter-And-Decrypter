@@ -44,3 +44,11 @@ Secondly You'll Be Prompted With The Menu:
 
 - Once All Files Are Decrypted, The Script Prints That All Files Have Been **Decrypted**, And Will Also Print **Credits To Me** (***ChronZ/Pulsed***):
 - ![image](https://user-images.githubusercontent.com/105559308/175817201-9028af12-0f59-4c31-8fdc-84dacea09806.png)
+
+
+# Goals For V1.2.0-A:
+### Add Exceptions
+> Most Important Exceptions Will Be Added Such As:
+- InvalidToken
+- ValueError
+- ETC..
