@@ -1,8 +1,7 @@
 # Python Fernet File Encrypter And Decrypter!
 ### By Pulsed#1874
 # Download Latest Version:
-### Release Link:
-- https://github.com/ChrxnZ/Fernet-Encrypter-And-Decrypter/releases/tag/v1.1.0-A
+- You Can Download The Latest Version [Here!](https://github.com/ChrxnZ/Fernet-Encrypter-And-Decrypter/releases/tag/v1.1.0-A)
 # Usage:
 - Enter The **Randomly Generated Verification Number** That is Printed By The Script To Continue
 - Enter "**E**" Or "**D**" To Either _Encrypt_ Or _Decrypt_ Files In Script Directory
