@@ -27,7 +27,7 @@ def menuu():
     Clear_Terminal()
     menu = input(f"""
                  {Fore.BLUE}Python Fernet Encrypter And Decrypter By{Fore.RESET} {Fore.LIGHTGREEN_EX}Pulsed#1874{Fore.RESET}
-                 {Fore.RED}V 1.1.0-A
+                 {Fore.RED}V 1.2.0-R
                  {Fore.LIGHTCYAN_EX}[E]{Fore.RESET}  - {Fore.BLUE}Encrypt Files In Script Directory{Fore.RESET} 
                  {Fore.LIGHTCYAN_EX}[D]{Fore.RESET}  - {Fore.BLUE}Decrypt Files In Script Directory{Fore.RESET}
                  {Fore.LIGHTCYAN_EX}[EC]{Fore.RESET} - {Fore.BLUE}Encrypt Files In Specified Directory In Config.json{Fore.RESET} 
