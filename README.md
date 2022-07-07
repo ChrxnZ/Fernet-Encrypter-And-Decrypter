@@ -13,7 +13,8 @@ First You'll Be Prompted With A Verification Number From **500 To 5000** Which T
 - ![image](https://user-images.githubusercontent.com/105559308/175816161-ced9c736-a697-4f6e-80ad-b42beb66972b.png)
 
 Secondly You'll Be Prompted With The Menu:
-- ![image](https://user-images.githubusercontent.com/105559308/175816309-dfbbac44-86e3-423f-92ca-3f653619f4fc.png)
+- ![image](https://user-images.githubusercontent.com/105559308/177799252-6f83ca8c-f963-4688-9e18-6bac55ae5cde.png)
+
 
 ### Encryption:
 - The Script Will Print Found Files In **os.listdir()** (Script Directory)
@@ -45,7 +46,7 @@ Secondly You'll Be Prompted With The Menu:
 - ![image](https://user-images.githubusercontent.com/105559308/175817201-9028af12-0f59-4c31-8fdc-84dacea09806.png)
 
 
-# Goals For V1.2.0-A:
+# Goals For V1.3.0-R:
 ### Add Exceptions
 > Most Important Exceptions Will Be Added Such As:
 - InvalidToken
