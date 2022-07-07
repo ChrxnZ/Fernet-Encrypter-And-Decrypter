@@ -1,4 +1,6 @@
 *.python liguist-detectable=true
+*.batchfile liguist-detectable=true
+*.json liguist-detectable=true
 *.lua liguist-detectable=false
 *.csharp liguist-detectable=false
 *.c liguist-detectable=false
